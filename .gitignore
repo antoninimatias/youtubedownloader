@@ -1,0 +1,38 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.manifest
+*.pkg
+*.toc
+*.pyz
+
+# Local runtime/output files
+downloads/
+*.log
+*.tmp
+*.temp
+
+# Local backup files
+*.bak
+*.orig
+gui.py.bak
+
+# IDE/editor folders
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
